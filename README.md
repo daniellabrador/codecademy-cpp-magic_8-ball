@@ -66,10 +66,15 @@ Generally, you would want to compile and execute the program locally. To do that
 
 1. Download `magic8.cpp`.
 2. Open the terminal or command line and navigate to the directory where the downloaded file resides.
-3. Run the following commands to compile and execute the program:
+3. Run the following commands to compile the program:
 
 ```git
 g++ magic8.cpp -o magic8
+```
+
+4. Ask a question then execute the program:
+
+```git
 ./magic8
 ```
 
